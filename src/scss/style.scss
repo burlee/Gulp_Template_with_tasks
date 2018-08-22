@@ -1,0 +1,15 @@
+@import '_settings';
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: $bg-color;
+    color: $color;
+    display: flex;
+}
+P{
+    color: $color;
+}
